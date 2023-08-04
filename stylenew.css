@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.hero-section {
+  height: 70vh;
+  width: 100%;
+  background-image: url("https://cdn.dribbble.com/users/3218422/screenshots/14409298/media/c7a061636820ca7b75ea4a850cbaab81.jpg?resize=400x0");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.heading-i {
+  font-size: 4rem;
+  font-weight: 900 !important;
+}
+
+.heading-ii {
+  font-size: 2rem;
+  font-weight: 900 !important;
+}
+
+/* login page */
+.login-section {
+  height: 100vh;
+  width: 100%;
+  background-image: url("https://simg.nicepng.com/png/small/318-3189860_login-background-images-png-download-high-resolution-abstract.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.product-detail-section {
+  margin-top: 5rem !important;
+}
+
+.cart-section {
+  margin-top: 5rem;
+}
